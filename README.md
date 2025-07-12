@@ -1,15 +1,1 @@
-﻿# Problem Statement 1 - Skill Swap Platform
-
-# Team Memebers
-1. Himanshu Singh(Leader) - himsingh7284@gmail.com
-2. Abhishek Maniyar - abhishekmaniyar502@gmail.com
-3. Pushpraj Gadhvi - gadhvipushpraj7@gmail.com
-4. Suman Mandal - connect.sumanmandal@gmail.com
-
-# Team Name
-Neural Matrix
-
-
-This the features of the skill swap :
-
-the website The Skill Swap initiative is a community-driven platform designed to encourage collaborative learning by enabling members to exchange their skills and knowledge. 
+i had skill swap features in this
