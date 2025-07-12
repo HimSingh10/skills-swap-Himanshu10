@@ -11,6 +11,10 @@
 
 ---
 
+## SkillsSwap | Hackathon Submission Video
+https://www.loom.com/share/0f3857590e0e4317a3883bd53c306737?sid=84459ccf-119c-45d3-ab9b-4fc758cac19f 
+
+
 ## 🔍 Overview
 **Skill Swap Platform** is a lightweight Odoo module designed to empower users to connect and exchange skills seamlessly. Inspired by a barter system, users can list their skills, discover others with complementary talents, and initiate skill swaps—all within a smooth and secure environment.
 
