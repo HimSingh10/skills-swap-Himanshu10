@@ -1,12 +1,3 @@
-﻿# Problem Statement 1 - Skill Swap Platform
+# Skill Swap
 
-# Team Name
-Neural Matrix
-
-# Team Memebers
-1. Himanshu Singh(Leader) - himsingh7284@gmail.com
-2. Abhishek Maniyar - abhishekmaniyar502@gmail.com
-3. Pushpraj Gadhvi - gadhvipushpraj7@gmail.com
-4. Suman Mandal - connect.sumanmandal@gmail.com
-
-this Skill Swap is a collaborative peer-to-peer platform where individuals can exchange skills in a structured and meaningful way. The goal is to connect people who want to learn with those willing to teach—creating a cycle of continuous learning and community-driven growth.
+Description of the skill swap project.
